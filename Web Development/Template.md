@@ -1,7 +1,6 @@
-## PROJECT NAME -
+## PROJECT NAME -WebConnecting to HERICUL
 
-
-## DOMAIN - 
+## DOMAIN - WEB DEVELOPMENT
 
 
 
