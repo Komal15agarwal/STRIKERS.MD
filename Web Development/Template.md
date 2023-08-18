@@ -12,7 +12,8 @@ https://github.com/Komal15agarwal/congenial-space-sniffle/tree/3b44f658d2750f1e4
 2-Vital to teach kidz about indian heritage and culture.
 
 ## Tech Stack used-
-JAVA
+Html,css,javascript
+Full stack development
 
 ## Weekly Report-
 
