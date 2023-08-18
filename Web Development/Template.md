@@ -5,7 +5,7 @@
 
 
 ## LINK - 
-https://github.com/Komal15agarwal/STRIKERS.MD.git
+https://github.com/Komal15agarwal/Hericul
 
 ## ABOUT PROJECT - 
 1-Allow individual to connect with different heritage and culture.
