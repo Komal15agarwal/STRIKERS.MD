@@ -5,7 +5,7 @@
 
 
 ## LINK - 
-https://github.com/Komal15agarwal/congenial-space-sniffle/tree/3b44f658d2750f1e4625458cf675961135dca878/komal/hericul
+https://github.com/Komal15agarwal/STRIKERS.MD.git
 
 ## ABOUT PROJECT - 
 1-Allow individual to connect with different heritage and culture.
